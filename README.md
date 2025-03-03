@@ -4,4 +4,4 @@ Disciplina: Autoria Web;
 Discente: Sofia Guimarães;
 Docente: Roberta Freitas;
 Turma: Informática, vespertino, 1 ano (INFO1V);
-Período: 2024.2
+Período: 2024.2.
